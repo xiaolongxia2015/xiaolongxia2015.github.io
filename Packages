@@ -12,17 +12,3 @@ Description: An awesome MobileSubstrate tweak!
 author: Chuanzheng Yan
 name: CrackQMFeiJiDaZhan
 
-Package: com.yourcompany.crackquanhuang98
-Version: 0.0.1-2
-Section: Tweaks
-Maintainer: Chuanzheng Yan
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs//quanhuang98_0.0.1-2_iphoneos-arm.deb
-Size: 47408
-Installed-Size: 204
-MD5sum: 266d912d73af0d8e10ef8c177523079c
-Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
-name: CrackQuanHuang98
-
