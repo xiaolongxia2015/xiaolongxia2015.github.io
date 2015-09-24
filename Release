@@ -1,0 +1,8 @@
+Origin: Xiao Long Xia for Cydia
+Label: XLX
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: Xiao Long Xia Mobile Game In App Purchase
