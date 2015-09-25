@@ -1,3 +1,16 @@
+Package: com.xiaolongxia.xlx
+Version: 0.0.1-22
+Section: Utilities
+Maintainer: XiaoLongXia
+Architecture: iphoneos-arm
+Filename: ./debs//com.xiaolongxia.xlx_0.0.1-22.deb
+Size: 138664
+Installed-Size: 328
+MD5sum: 6843cc2ab5169d266da3d4a92520ffa4
+Description: 小龙虾苹果手游 85折充值 软件1
+author: XiaoLongXia
+name: AnXinXiaoLongXia
+
 Package: com.yourcompany.crackqmfeijidazhan
 Version: 0.0.1-2
 Section: Tweaks
