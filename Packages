@@ -27,11 +27,9 @@ name: CrackQMFeiJiDaZhan
 
 Package: kr.typostudio.tsprotector8
 Version: 1.1.1-10
-Priority: optional
 Section: Tweaks
 Maintainer: typ0s2d10 <typ0s2d10@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
-Replaces: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb
 Architecture: iphoneos-arm
 Filename: ./debs//kr.typostudio.tsprotector8_1.1.1-10_iphoneos-arm.deb
 Size: 429306
