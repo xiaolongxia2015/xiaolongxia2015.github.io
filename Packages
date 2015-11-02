@@ -1,13 +1,14 @@
 Package: com.yourcompany.chgmac2
-Version: 0.0.1-252
+Version: 0.0.1-253
 Section: Utilities
 Maintainer: Cyan Inc.
+Depends: applist
 Architecture: iphoneos-arm
-Filename: ./debs//com.yourcompany.chgmac2_0.0.1-252_iphoneos-arm.deb
-Size: 225462
+Filename: ./debs//com.yourcompany.chgmac2_0.0.1-253_iphoneos-arm.deb
+Size: 225472
 Installed-Size: 548
-MD5sum: 1d4ea1076facda57a7ae7ad9d3221d8c
+MD5sum: 8a221fee374c0fdc8db5d3f36208a3b1
 Description: 修改Mac地址
-author: Cyan Inc.
 name: ChgMac虾
+author: Cyan Inc.
 
