@@ -1,3 +1,17 @@
+Package: com.cyan.baijx
+Version: 0.0.1-13
+Section: Tweaks
+Maintainer: cyan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//b百将行.deb
+Size: 84310
+Installed-Size: 348
+MD5sum: 766ce72bacf3628d0127e813d111b762
+Description: An awesome MobileSubstrate tweak!
+name: Crack_BaiJX
+author: cyan
+
 Package: com.yourcompany.chgmac2
 Version: 0.0.1-254
 Section: Utilities
