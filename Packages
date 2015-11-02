@@ -4,13 +4,13 @@ Section: Tweaks
 Maintainer: cyan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs//b百将行.deb
+Filename: ./debs//Bai_Jiang_Xing.deb
 Size: 84310
 Installed-Size: 348
 MD5sum: 766ce72bacf3628d0127e813d111b762
 Description: An awesome MobileSubstrate tweak!
-name: Crack_BaiJX
 author: cyan
+name: Crack_BaiJX
 
 Package: com.yourcompany.chgmac2
 Version: 0.0.1-254
@@ -22,6 +22,6 @@ Size: 225468
 Installed-Size: 548
 MD5sum: dee3933e60419712ea576ed12fcb72d7
 Description: 修改Mac地址
-name: ChgMac虾
 author: Cyan Inc.
+name: ChgMac虾
 
