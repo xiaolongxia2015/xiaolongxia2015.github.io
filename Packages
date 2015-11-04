@@ -1,27 +1,727 @@
-Package: com.cyan.baijx
-Version: 0.0.1-13
-Section: Tweaks
-Maintainer: cyan
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs//Bai_Jiang_Xing.deb
-Size: 84310
-Installed-Size: 348
-MD5sum: 766ce72bacf3628d0127e813d111b762
-Description: An awesome MobileSubstrate tweak!
-author: cyan
-name: Crack_BaiJX
-
 Package: com.yourcompany.chgmac2
-Version: 0.0.1-254
+Version: 0.0.1-255
 Section: Utilities
 Maintainer: Cyan Inc.
 Architecture: iphoneos-arm
-Filename: ./debs//com.yourcompany.chgmac2_0.0.1-254_iphoneos-arm.deb
-Size: 225468
+Filename: ./debs//01CH_MAC.deb
+Size: 225464
 Installed-Size: 548
-MD5sum: dee3933e60419712ea576ed12fcb72d7
+MD5sum: a31080c535316cd444a54fb8764ca3bd
 Description: 修改Mac地址
 author: Cyan Inc.
 name: ChgMac虾
+
+Package: com.yourcompany.ck-xfz
+Version: 0.0.1-15
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xi_Fei_Zhuan.deb
+Size: 28174
+Installed-Size: 136
+MD5sum: 533ecf64de0fa6ebe8b7e6aa42ad1570
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: ck-xfz
+
+Package: com.yourcompany.crackanheiliming
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//An_Hei_Li_Ming.deb
+Size: 50462
+Installed-Size: 204
+MD5sum: 8abb97302a4b9d6511dbaab4c4db9379
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackAnHeiLiMing
+
+Package: com.yourcompany.crackbenghuaixueyuan
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Beng_Huai_Xue_Yuan.deb
+Size: 27878
+Installed-Size: 136
+MD5sum: 437302cf6040cf5ebdec3cc786c238fe
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackBengHuaiXueYuan
+
+Package: com.yourcompany.crackbuliangren
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Bu_Liang_Ren.deb
+Size: 28930
+Installed-Size: 136
+MD5sum: aca322098dd6cca47e1f33f2f36e293c
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackBuLiangREn
+
+Package: com.yourcompany.crackbuluochongtu
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Bu_Luo_Chong_Tu.deb
+Size: 51390
+Installed-Size: 204
+MD5sum: 565a672b2b36469f9f5e556bc4b3e370
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackBuLuoChongTu
+
+Package: com.yourcompany.crackcangqiongbian
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Cang_Qiong_Bian.deb
+Size: 89132
+Installed-Size: 348
+MD5sum: 3f70becc39cf9e59ba92b59f99a098a5
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackCangQiongBian
+
+Package: com.yourcompany.crackchaojidiyuzhiguang
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Chao_Ji_Di_Yu_Zhi_Guang.deb
+Size: 51416
+Installed-Size: 204
+MD5sum: 07aaccbd1b94e4ea24db31c232892d5c
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackChaoJiDiYuZhiGuang
+
+Package: com.yourcompany.crackchaojijiandui
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Chao_Ji_Jian_Dui.deb
+Size: 27756
+Installed-Size: 136
+MD5sum: 28e20d26644d6593733bb646f0f7322d
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackChaoJiJianDui
+
+Package: com.yourcompany.crackchaoshikongjizhan
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Chao_Shi_Kong_Zhan_Ji.deb
+Size: 27562
+Installed-Size: 136
+MD5sum: 5142d54f5559510f94354a91e285d043
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackChaoShiKongJiZhan
+
+Package: com.yourcompany.crackchuizisanguo
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Chui_Zi_San_Guo.deb
+Size: 30226
+Installed-Size: 136
+MD5sum: ef22b1ebc3aa2e0df8ee164f92d86cf5
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackChuiziSanGuo
+
+Package: com.yourcompany.crackcosdaluandou
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//COS_Da_Luan_Dou.deb
+Size: 50976
+Installed-Size: 204
+MD5sum: c5abdfb02c46f339d6a6a4049e160c14
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackCOSDaLuanDou
+
+Package: com.yourcompany.crackdazhangmen
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Da_Zhang_Men.deb
+Size: 27354
+Installed-Size: 120
+MD5sum: bd4a5e40ecf221d34ac0dd0e8a032ba8
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackDaZhangMen
+
+Package: com.yourcompany.crackdounaosanguo
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Dou_Nao_San_Guo.deb
+Size: 27420
+Installed-Size: 120
+MD5sum: 3319188177b9717d472cd4edc78bcaa7
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackDouNaoSanGuo
+
+Package: com.yourcompany.crackdtcq
+Version: 0.0.1-147
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Dao_Ta_Chuan_Qi.deb
+Size: 92384
+Installed-Size: 380
+MD5sum: 1be622da5b6368f838c319e48549ff65
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackDTCQ
+
+Package: com.yourcompany.crackfangkainasanguo
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Fang_Kai_Na_San_Guo.deb
+Size: 29994
+Installed-Size: 136
+MD5sum: 09a14a8cbec279c353f00c25ea8864da
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackFangKaiNaSanGuo
+
+Package: com.yourcompany.crackgedoulieren
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Ge_Dou_Lie_Ren.deb
+Size: 27260
+Installed-Size: 120
+MD5sum: fcb4705469b3cf7c66a8d51d5ef96d3c
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackGeDouLieRen
+
+Package: com.yourcompany.crackguanmenfanglvbu
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Fang_Men_Guan_Lv_Bu.deb
+Size: 28216
+Installed-Size: 136
+MD5sum: 5c93aab4fd2f809c4d0eda4ea91e6665
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackGuanMenFangLvBu
+
+Package: com.yourcompany.crackguanyunchang
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Guan_Yun_Chang.deb
+Size: 28740
+Installed-Size: 136
+MD5sum: eaa41a3673971f5570b3025cf909da32
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackGuanYunChang
+
+Package: com.yourcompany.crackhaidaoqibing
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Hai_Dao_Qi_Bing.deb
+Size: 27926
+Installed-Size: 136
+MD5sum: 18f19b4e72a1ac6ad45ab97a343c58a2
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackHaiDaoQiBing
+
+Package: com.yourcompany.crackhanghaiwangqihang
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Hang_Hai_WAng_Qi_Hang.deb
+Size: 28108
+Installed-Size: 136
+MD5sum: 3cc44d59e217b919921f9e16566a09fa
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackHangHaiWangQiHang
+
+Package: com.yourcompany.crackhuanlesuoha
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Huan_Le_Suo_Ha.deb
+Size: 28234
+Installed-Size: 136
+MD5sum: 622c4acee87b1dd220637b7aa9f7fda7
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackHuanLeSuoHa
+
+Package: com.yourcompany.crackhuanxiangbiannianshi
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Huan_Xiang_Bian_Nian_Shi.deb
+Size: 29972
+Installed-Size: 136
+MD5sum: 86d2d6c4377c7facacfc7f2db0b969d6
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackHuanXiangBianNianShi
+
+Package: com.yourcompany.crackhuaqiangu
+Version: 0.0.1-27
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Hua_Qian_Gu.deb
+Size: 30454
+Installed-Size: 136
+MD5sum: 07b41aa7f74573e85102e52b97e9884e
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackHuaQianGu
+
+Package: com.yourcompany.crackjiuyinzhenjing
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Jiu_Ying_Zhen_Jing.deb
+Size: 28244
+Installed-Size: 136
+MD5sum: f60974bb6d76cbc8820077f37f57a46a
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackJiuYinZhenJing
+
+Package: com.yourcompany.cracklangyabang
+Version: 0.0.1-5
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Lang_Ya_Bang.deb
+Size: 90166
+Installed-Size: 348
+MD5sum: 7b850ea17eceb2a6dc0b70292f0c7a3c
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackLangYaBang
+
+Package: com.yourcompany.cracklieyansy
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Lie_Yan_Shou_You.deb
+Size: 28216
+Installed-Size: 136
+MD5sum: 2b3c466d0e93d45f5f178c4e2d6b2c3f
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackLieYanSY
+
+Package: com.yourcompany.cracklushichuanshuo
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Lu_Shi_Chuan_Shuo.deb
+Size: 29044
+Installed-Size: 136
+MD5sum: 547ad6b7745d23671f8de42eba19d193
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackLuShiChuanShuo
+
+Package: com.yourcompany.crackmaoxiandao
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Mao_Xian_Dao.deb
+Size: 28240
+Installed-Size: 136
+MD5sum: bfd95b7fb368e3c48af2483345f1e837
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackMaoXianDao
+
+Package: com.yourcompany.crackmolibaobei
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Mo_Li_Bao_Bei.deb
+Size: 28052
+Installed-Size: 136
+MD5sum: 24f246c878041437bcccd47a68b2f0d2
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackMoLiBaoBei
+
+Package: com.yourcompany.crackneedforspeed
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//NeedForSpeed.deb
+Size: 46932
+Installed-Size: 204
+MD5sum: 42b8613764402e66f4fe17f5adb21b28
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackNeedForSpeed
+
+Package: com.yourcompany.crackquanminxiyou
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//QuanMinXiYou.deb
+Size: 30232
+Installed-Size: 136
+MD5sum: 5e6c2cbe3ea54da7fc78c63936d09321
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackQuanMinXiYou
+
+Package: com.yourcompany.crackrenzhemengjianzhuan
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Ren_Zhe_Meng_Jian_Zhuan.deb
+Size: 28496
+Installed-Size: 136
+MD5sum: fd6c3f88c932f284fbd7aa84a9096ebc
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackRenZheMengJianZhuan
+
+Package: com.yourcompany.cracksanjianhao
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//San_Jian_Hao.deb
+Size: 29082
+Installed-Size: 136
+MD5sum: 2cc4138aad66c3e35369ccc41cc1aa08
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackSanJianHao
+
+Package: com.yourcompany.crackshaoniansanguozhi
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Shao_Nian_San_Guo_Zhi.deb
+Size: 27332
+Installed-Size: 120
+MD5sum: 8dd5073eef0d3594ebeb27c4039935b4
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackShaonianSanGuoZhi
+
+Package: com.yourcompany.crackshendiaoxialv
+Version: 0.0.1-5
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Shen_Diao_Xia_Lv.deb
+Size: 27478
+Installed-Size: 136
+MD5sum: 2216cf5d5547eb36bada0145d255cdac
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackShenDiaoXiaLv
+
+Package: com.yourcompany.crackshengdoushixingshi
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Sheng_Dou_Shi_Xing_Shi.deb
+Size: 27904
+Installed-Size: 136
+MD5sum: bf9939c5b40ed2228220b3020d540306
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackShengDouShiXingShi
+
+Package: com.yourcompany.crackshifuyouyaoqi
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Shi_Fu_You_Yao_Qi.deb
+Size: 27698
+Installed-Size: 136
+MD5sum: 06cbc35bd87df44a762d331b8b1fb04c
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackShiFuYouYaoQi
+
+Package: com.yourcompany.crackshiwangelengxiaohua
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Shi_Wan_Ge_Leng_Xiao_Hua.deb
+Size: 27820
+Installed-Size: 136
+MD5sum: 0af6436ac887f1bdebe1ac13b460593c
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackShiWanGeLengXiaoHua
+
+Package: com.yourcompany.cracktaijixiongmao
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Tai_Ji_Xiong_Mao.deb
+Size: 27764
+Installed-Size: 136
+MD5sum: 84431867d3d9e8df94eab484a3d56df1
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackTaiJiXiongMao
+
+Package: com.yourcompany.cracktianlongbabu3d
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Tian_Long_Ba_Bu.deb
+Size: 31416
+Installed-Size: 136
+MD5sum: 53c17d2644fba1abb6879159cebcbc2a
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackTianLongBaBu3D
+
+Package: com.yourcompany.crackwozaidaqingdanghuangdi
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Wo_Zai_Da_Qing_DAng_Huang_Di.deb
+Size: 27828
+Installed-Size: 136
+MD5sum: bf50ae8844315c40deacd7e0999e308b
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackWoZaiDaQingDangHuangDi
+
+Package: com.yourcompany.crackxianjiankezhan
+Version: 0.0.1-15
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xian_Jian_Ke_Zhan.deb
+Size: 83912
+Installed-Size: 348
+MD5sum: bb75ea0a73c2fe9c95ab94a472fdaf1b
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackXianJianKeZhan
+
+Package: com.yourcompany.crackxinhuaqiangu
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xin_Hua_Qian_Gu.deb
+Size: 47636
+Installed-Size: 204
+MD5sum: fa17d5258a86836bd06416fb2907fa96
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackXinHuaQianGu
+
+Package: com.yourcompany.crackxinqinshimingyue
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xin_Qin_Shi_Ming_Yue.deb
+Size: 27958
+Installed-Size: 136
+MD5sum: b9879430ee0e7b2d2b9502d7700729aa
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackXinQinShiMingYue
+
+Package: com.yourcompany.crackxinsanguomengjianglu
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xin_San_Guo_Meng_Jian_Zhuan.deb
+Size: 28864
+Installed-Size: 136
+MD5sum: ab2134092427d80ada8c9a25327b9c83
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackXinSanGuoMengJiangLu
+
+Package: com.yourcompany.crackxinxianjianqxc
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xin_Xian_Jian_Qi_Xia_Zhuan.deb
+Size: 55328
+Installed-Size: 252
+MD5sum: 3b476ae5f96ce943175840b6acb49580
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackXinXianJianQXC
+
+Package: com.yourcompany.crackxinzhengtu
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Xin_Zhen_Tu.deb
+Size: 30606
+Installed-Size: 136
+MD5sum: 7946c62d6bd57df074d1308dd39fb935
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackXinZhengTu
+
+Package: com.yourcompany.crackyunzhongge
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Yun_Zhong_Ge.deb
+Size: 30340
+Installed-Size: 136
+MD5sum: 32faf106c9ef4d0fcd5fc51483c31dc9
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackYunZhongGe
+
+Package: com.yourcompany.crackzhanjiandiguo
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Zhan_Jian_di_guo.deb
+Size: 28002
+Installed-Size: 136
+MD5sum: 28b806824a2277932a88eee439182a92
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackZhanjianDiGuo
+
+Package: com.yourcompany.crackzhanlongzhiren
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Zhan_Long_Zhi_ren.deb
+Size: 30168
+Installed-Size: 136
+MD5sum: 0159f1b9d94b24b706e41c847d49a088
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackZhanLongZhiRen
+
+Package: com.yourcompany.crackzhenhuanzhuan
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//Zheng_Huan_Zhuan.deb
+Size: 28716
+Installed-Size: 136
+MD5sum: 014cf523f7cd1ec1e101c22a3f51aa83
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackZhenHuanZhuan
 
