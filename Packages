@@ -9,8 +9,8 @@ Size: 47364
 Installed-Size: 204
 MD5sum: dca562b5e79d9cc2b3a73ba10156cfdc
 Description: An awesome MobileSubstrate tweak!
-author: cyan
 name: Crack_9LZ
+author: cyan
 
 Package: com.cyan.baijx
 Version: 0.0.1-13
@@ -23,8 +23,8 @@ Size: 84310
 Installed-Size: 348
 MD5sum: 766ce72bacf3628d0127e813d111b762
 Description: An awesome MobileSubstrate tweak!
-author: cyan
 name: Crack_BaiJX
+author: cyan
 
 Package: com.cyan.crackmhpay
 Version: 0.0.1-240
@@ -37,8 +37,8 @@ Size: 79818
 Installed-Size: 396
 MD5sum: f9255435f6663cc86782a86098c827a4
 Description: An awesome MobileSubstrate tweak!
-author: Cyan
 name: CrackMhPay
+author: Cyan
 
 Package: com.cyan.reboot
 Version: 0.0.1-61
@@ -50,8 +50,8 @@ Size: 26098
 Installed-Size: 216
 MD5sum: 552e55b5984a50141cec07ddfa181772
 Description: An awesome application!
-author: cyan
 name: ReBoot
+author: cyan
 
 Package: com.cyan.ysqth
 Version: 0.0.1-22
@@ -64,8 +64,35 @@ Size: 83692
 Installed-Size: 348
 MD5sum: a9456c6319aaa2ce5aaa0938924b1887
 Description: An awesome MobileSubstrate tweak!
-author: Cyan
 name: Crack_YouShaQTH
+author: Cyan
+
+Package: com.xiaolongxia.xlx
+Version: 0.0.1-23
+Section: Utilities
+Maintainer: XiaoLongXia
+Architecture: iphoneos-arm
+Filename: ./debs//00XiaoLongXia.deb
+Size: 138666
+Installed-Size: 328
+MD5sum: 1f2aaaa8f6ea8e773f778fab88c4ac77
+Description: 小龙虾苹果手游 85折充值 软件1
+name: 010_小龙虾充值
+author: XiaoLongXia
+
+Package: com.xlx.dahuaxiyou
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: XLX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//mxj_Da_Hua_Xi_You.deb
+Size: 179520
+Installed-Size: 604
+MD5sum: 7ecc1b0e101a91876cf749903b8a811e
+Description: An awesome MobileSubstrate tweak!
+name: XLX_DaHuaXiYou
+author: XLX
 
 Package: com.yourcompany.chgmac2
 Version: 0.0.1-255
@@ -77,8 +104,8 @@ Size: 225464
 Installed-Size: 548
 MD5sum: a31080c535316cd444a54fb8764ca3bd
 Description: 修改Mac地址
-author: Cyan Inc.
 name: ChgMac虾
+author: Cyan Inc.
 
 Package: com.yourcompany.ck-xfz
 Version: 0.0.1-15
@@ -91,8 +118,8 @@ Size: 28174
 Installed-Size: 136
 MD5sum: 533ecf64de0fa6ebe8b7e6aa42ad1570
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: ck-xfz
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackanheiliming
 Version: 0.0.1-3
@@ -105,8 +132,8 @@ Size: 50462
 Installed-Size: 204
 MD5sum: 8abb97302a4b9d6511dbaab4c4db9379
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackAnHeiLiMing
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackbenghuaixueyuan
 Version: 0.0.1-2
@@ -119,8 +146,8 @@ Size: 27878
 Installed-Size: 136
 MD5sum: 437302cf6040cf5ebdec3cc786c238fe
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackBengHuaiXueYuan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackbuliangren
 Version: 0.0.1-4
@@ -133,8 +160,8 @@ Size: 28930
 Installed-Size: 136
 MD5sum: aca322098dd6cca47e1f33f2f36e293c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackBuLiangREn
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackbuluochongtu
 Version: 0.0.1-2
@@ -147,8 +174,8 @@ Size: 51390
 Installed-Size: 204
 MD5sum: 565a672b2b36469f9f5e556bc4b3e370
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackBuLuoChongTu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackcangqiongbian
 Version: 0.0.1-4
@@ -161,8 +188,8 @@ Size: 89132
 Installed-Size: 348
 MD5sum: 3f70becc39cf9e59ba92b59f99a098a5
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackCangQiongBian
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackchaojidiyuzhiguang
 Version: 0.0.1-2
@@ -175,8 +202,8 @@ Size: 51416
 Installed-Size: 204
 MD5sum: 07aaccbd1b94e4ea24db31c232892d5c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackChaoJiDiYuZhiGuang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackchaojijiandui
 Version: 0.0.1-2
@@ -189,8 +216,8 @@ Size: 27756
 Installed-Size: 136
 MD5sum: 28e20d26644d6593733bb646f0f7322d
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackChaoJiJianDui
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackchaoshikongjizhan
 Version: 0.0.1-2
@@ -203,8 +230,8 @@ Size: 27562
 Installed-Size: 136
 MD5sum: 5142d54f5559510f94354a91e285d043
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackChaoShiKongJiZhan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackchuizisanguo
 Version: 0.0.1-2
@@ -217,8 +244,8 @@ Size: 30226
 Installed-Size: 136
 MD5sum: ef22b1ebc3aa2e0df8ee164f92d86cf5
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackChuiziSanGuo
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackcosdaluandou
 Version: 0.0.1-2
@@ -231,8 +258,8 @@ Size: 50976
 Installed-Size: 204
 MD5sum: c5abdfb02c46f339d6a6a4049e160c14
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackCOSDaLuanDou
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackdazhangmen
 Version: 0.0.1-3
@@ -245,8 +272,8 @@ Size: 27354
 Installed-Size: 120
 MD5sum: bd4a5e40ecf221d34ac0dd0e8a032ba8
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackDaZhangMen
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackdhxy
 Version: 0.0.1-4
@@ -259,8 +286,8 @@ Size: 76068
 Installed-Size: 316
 MD5sum: 5e149be8c6a22835a4b8ffdc2f974910
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackDHXY
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackdounaosanguo
 Version: 0.0.1-2
@@ -273,8 +300,8 @@ Size: 27420
 Installed-Size: 120
 MD5sum: 3319188177b9717d472cd4edc78bcaa7
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackDouNaoSanGuo
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackdtcq
 Version: 0.0.1-147
@@ -287,8 +314,8 @@ Size: 92384
 Installed-Size: 380
 MD5sum: 1be622da5b6368f838c319e48549ff65
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackDTCQ
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackdulifangxian
 Version: 0.0.1-3
@@ -301,8 +328,8 @@ Size: 57350
 Installed-Size: 252
 MD5sum: 13817c76cf295410062b453b7f5028ac
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackDuLiFangXian
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackfangkainasanguo
 Version: 0.0.1-2
@@ -315,8 +342,8 @@ Size: 29994
 Installed-Size: 136
 MD5sum: 09a14a8cbec279c353f00c25ea8864da
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackFangKaiNaSanGuo
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackgedoulieren
 Version: 0.0.1-2
@@ -329,8 +356,8 @@ Size: 27260
 Installed-Size: 120
 MD5sum: fcb4705469b3cf7c66a8d51d5ef96d3c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackGeDouLieRen
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackglxbwysw
 Version: 0.0.1-19
@@ -343,8 +370,8 @@ Size: 84714
 Installed-Size: 348
 MD5sum: ca1e2724580e00b52f4d159d695d4373
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackGLXBWYSW
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackgongfxmxp
 Version: 0.0.1-9
@@ -357,8 +384,8 @@ Size: 88570
 Installed-Size: 348
 MD5sum: 6e0c47b1e80eb1cdace2403bdb9a974d
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackGongFXMXP
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackguanmenfanglvbu
 Version: 0.0.1-2
@@ -371,8 +398,8 @@ Size: 28216
 Installed-Size: 136
 MD5sum: 5c93aab4fd2f809c4d0eda4ea91e6665
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackGuanMenFangLvBu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackguanyunchang
 Version: 0.0.1-2
@@ -385,8 +412,8 @@ Size: 28740
 Installed-Size: 136
 MD5sum: eaa41a3673971f5570b3025cf909da32
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackGuanYunChang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhaidaoqibing
 Version: 0.0.1-2
@@ -399,8 +426,8 @@ Size: 27926
 Installed-Size: 136
 MD5sum: 18f19b4e72a1ac6ad45ab97a343c58a2
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHaiDaoQiBing
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhanghaiwangqihang
 Version: 0.0.1-3
@@ -413,8 +440,8 @@ Size: 28108
 Installed-Size: 136
 MD5sum: 3cc44d59e217b919921f9e16566a09fa
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHangHaiWangQiHang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhuanledoudizhu
 Version: 0.0.1-3
@@ -427,8 +454,8 @@ Size: 49518
 Installed-Size: 204
 MD5sum: 5a2fea293f7d6cd6a8829ce069a17374
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHuanLeDouDiZhu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhuanlemajiang
 Version: 0.0.1-3
@@ -441,8 +468,8 @@ Size: 49424
 Installed-Size: 204
 MD5sum: 7f53b073d89e895380e5264e90ecdd6f
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHuanLeMaJiang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhuanlesuoha
 Version: 0.0.1-2
@@ -455,8 +482,8 @@ Size: 28234
 Installed-Size: 136
 MD5sum: 622c4acee87b1dd220637b7aa9f7fda7
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHuanLeSuoHa
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhuanlexiyou
 Version: 0.0.1-3
@@ -469,8 +496,8 @@ Size: 57342
 Installed-Size: 252
 MD5sum: d98795370be10e17af320de5f5161de3
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHuanLeXiYou
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhuanxiangbiannianshi
 Version: 0.0.1-2
@@ -483,8 +510,8 @@ Size: 29972
 Installed-Size: 136
 MD5sum: 86d2d6c4377c7facacfc7f2db0b969d6
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHuanXiangBianNianShi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackhuaqiangu
 Version: 0.0.1-27
@@ -497,8 +524,8 @@ Size: 30454
 Installed-Size: 136
 MD5sum: 07b41aa7f74573e85102e52b97e9884e
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackHuaQianGu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackjiangltx
 Version: 0.0.1-7
@@ -511,8 +538,8 @@ Size: 88710
 Installed-Size: 348
 MD5sum: ff9461c34a1d96bbc1830da4f5037121
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackJiangLTX
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackjiuyinzhenjing
 Version: 0.0.1-2
@@ -525,8 +552,8 @@ Size: 28244
 Installed-Size: 136
 MD5sum: f60974bb6d76cbc8820077f37f57a46a
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackJiuYinZhenJing
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackjlhx
 Version: 0.0.1-10
@@ -539,8 +566,8 @@ Size: 87580
 Installed-Size: 348
 MD5sum: 5410bdfbefb9fb7d4dcab2e8b93601f4
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackJLHX
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackkaixinxxl
 Version: 0.0.1-9
@@ -553,8 +580,8 @@ Size: 56304
 Installed-Size: 252
 MD5sum: 26f0b3c5aecec434563e6f07ebe07b00
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackKaiXinXXL
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackkoudaizhuluoji
 Version: 0.0.1-3
@@ -567,8 +594,8 @@ Size: 84044
 Installed-Size: 348
 MD5sum: ca57c1e4db81a58674d6960e2e2ce844
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackKouDaiZhuLuoJi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracklangyabang
 Version: 0.0.1-5
@@ -581,8 +608,8 @@ Size: 90166
 Installed-Size: 348
 MD5sum: 7b850ea17eceb2a6dc0b70292f0c7a3c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackLangYaBang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracklieyansy
 Version: 0.0.1-3
@@ -595,8 +622,8 @@ Size: 28216
 Installed-Size: 136
 MD5sum: 2b3c466d0e93d45f5f178c4e2d6b2c3f
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackLieYanSY
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracklushichuanshuo
 Version: 0.0.1-2
@@ -609,8 +636,8 @@ Size: 29044
 Installed-Size: 136
 MD5sum: 547ad6b7745d23671f8de42eba19d193
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackLuShiChuanShuo
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracklyshc
 Version: 0.0.1-7
@@ -623,8 +650,8 @@ Size: 88762
 Installed-Size: 348
 MD5sum: 03fa0b40715f449a824e990c2149fa01
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackLYSHC
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackmaoxiandao
 Version: 0.0.1-2
@@ -637,8 +664,8 @@ Size: 28240
 Installed-Size: 136
 MD5sum: bfd95b7fb368e3c48af2483345f1e837
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackMaoXianDao
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackminixiyou
 Version: 0.0.1-2
@@ -651,8 +678,8 @@ Size: 83896
 Installed-Size: 348
 MD5sum: 4d6ff7b69c7adf2890bf2de26fa53a61
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackMiNiXiYou
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackmolibaobei
 Version: 0.0.1-4
@@ -665,8 +692,8 @@ Size: 28052
 Installed-Size: 136
 MD5sum: 24f246c878041437bcccd47a68b2f0d2
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackMoLiBaoBei
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackmoniacake
 Version: 0.0.1-16
@@ -679,8 +706,8 @@ Size: 83798
 Installed-Size: 348
 MD5sum: 8e491fb6fc74dcb5d0dba39c89dd7e22
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackMoniaCake
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackmtji
 Version: 0.0.1-10
@@ -693,8 +720,8 @@ Size: 85734
 Installed-Size: 348
 MD5sum: 754725b0544cfe0c882c9e0f5ca9f020
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackMTJi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackneedforspeed
 Version: 0.0.1-4
@@ -707,8 +734,8 @@ Size: 46932
 Installed-Size: 204
 MD5sum: 42b8613764402e66f4fe17f5adb21b28
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackNeedForSpeed
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackqijinuannuan
 Version: 0.0.1-15
@@ -721,8 +748,8 @@ Size: 47782
 Installed-Size: 204
 MD5sum: 65de57c81ab35764cb6276d7f70df204
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQiJiNuanNuan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackqmchaoshen
 Version: 0.0.1-7
@@ -735,8 +762,8 @@ Size: 46854
 Installed-Size: 204
 MD5sum: c60906a6a3c9c4120082646eb59cd9ce
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQMChaoShen
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackqmfeijidazhan
 Version: 0.0.1-3
@@ -749,8 +776,8 @@ Size: 56032
 Installed-Size: 252
 MD5sum: 9c0133e7173e840d0c7a5b2136d7f115
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQMFeiJiDaZhan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackqmtji
 Version: 0.0.1-3
@@ -763,8 +790,8 @@ Size: 57600
 Installed-Size: 252
 MD5sum: a422fecb2ef1690d6cbad57055861899
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQMTJi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackqmzhugong
 Version: 0.0.1-52
@@ -777,8 +804,8 @@ Size: 46690
 Installed-Size: 204
 MD5sum: ae2529d6de7e581945ab8c4a1e03b7a9
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQMzhugong
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackqqlogin
 Version: 0.0.1-23
@@ -791,8 +818,8 @@ Size: 34054
 Installed-Size: 152
 MD5sum: 8767a188fff26018007794b305280c5a
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQQLogin
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackquanhuang98
 Version: 0.0.1-3
@@ -805,8 +832,8 @@ Size: 47406
 Installed-Size: 204
 MD5sum: 8654be06aeacc7ffb1c04eae842a093d
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQuanHuang98
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackquanminnongchang
 Version: 0.0.1-2
@@ -819,8 +846,8 @@ Size: 57574
 Installed-Size: 252
 MD5sum: 756442e34716ad8aec5fbde4af302a83
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQuanMinNongChang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackquanminxiyou
 Version: 0.0.1-4
@@ -833,8 +860,8 @@ Size: 30232
 Installed-Size: 136
 MD5sum: 5e6c2cbe3ea54da7fc78c63936d09321
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackQuanMinXiYou
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackrenzhemengjianzhuan
 Version: 0.0.1-2
@@ -847,8 +874,8 @@ Size: 28496
 Installed-Size: 136
 MD5sum: fd6c3f88c932f284fbd7aa84a9096ebc
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackRenZheMengJianZhuan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackrxcq
 Version: 0.0.1-14
@@ -861,8 +888,8 @@ Size: 55882
 Installed-Size: 252
 MD5sum: ae20ef82903cb846b687c90215740e21
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackRxcq
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracksanguoxiaozhuan
 Version: 0.0.1-8
@@ -875,8 +902,8 @@ Size: 48308
 Installed-Size: 204
 MD5sum: 12785911ae036c5f4c767358ff33f383
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackSanGuoXiaoZhuan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracksanguozhiren
 Version: 0.0.1-3
@@ -889,8 +916,8 @@ Size: 49450
 Installed-Size: 204
 MD5sum: d5662d9cb5a012df795844f866509fea
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackSanGuoZhiRen
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracksanjianhao
 Version: 0.0.1-2
@@ -903,8 +930,8 @@ Size: 29082
 Installed-Size: 136
 MD5sum: 2cc4138aad66c3e35369ccc41cc1aa08
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackSanJianHao
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshaoniansanguozhi
 Version: 0.0.1-3
@@ -917,8 +944,8 @@ Size: 27332
 Installed-Size: 120
 MD5sum: 8dd5073eef0d3594ebeb27c4039935b4
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShaonianSanGuoZhi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshendiaoxialv
 Version: 0.0.1-5
@@ -931,8 +958,8 @@ Size: 27478
 Installed-Size: 136
 MD5sum: 2216cf5d5547eb36bada0145d255cdac
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShenDiaoXiaLv
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshengdoushixingshi
 Version: 0.0.1-3
@@ -945,8 +972,8 @@ Size: 27904
 Installed-Size: 136
 MD5sum: bf9939c5b40ed2228220b3020d540306
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShengDouShiXingShi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshenmj
 Version: 0.0.1-6
@@ -959,8 +986,8 @@ Size: 88810
 Installed-Size: 348
 MD5sum: 99337e8dc6472b27a4b92b8e013ded94
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShenMJ
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshifuyouyaoqi
 Version: 0.0.1-3
@@ -973,8 +1000,8 @@ Size: 27698
 Installed-Size: 136
 MD5sum: 06cbc35bd87df44a762d331b8b1fb04c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShiFuYouYaoQi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshikuangjulebu
 Version: 0.0.1-3
@@ -987,8 +1014,8 @@ Size: 88638
 Installed-Size: 348
 MD5sum: 1b0a876d701b1f772f3e818361669553
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShiKuangJuLeBu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshiwangelengxiaohua
 Version: 0.0.1-2
@@ -1001,8 +1028,8 @@ Size: 27820
 Installed-Size: 136
 MD5sum: 0af6436ac887f1bdebe1ac13b460593c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShiWanGeLengXiaoHua
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackshuaituzhibin
 Version: 0.0.1-3
@@ -1015,8 +1042,8 @@ Size: 83876
 Installed-Size: 348
 MD5sum: d25dbbb65cbc757b87c7d24701c1748a
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackShuaiTuZhiBin
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracksuisuiquqi
 Version: 0.0.1-11
@@ -1029,8 +1056,8 @@ Size: 84060
 Installed-Size: 348
 MD5sum: a126f8d1d68c1298fe55e020d5ecf9cc
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackSuiSuiQuQi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracktaijixiongmao
 Version: 0.0.1-3
@@ -1043,8 +1070,8 @@ Size: 27764
 Installed-Size: 136
 MD5sum: 84431867d3d9e8df94eab484a3d56df1
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTaiJiXiongMao
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracktangguochuanqi
 Version: 0.0.1-3
@@ -1057,8 +1084,8 @@ Size: 57550
 Installed-Size: 252
 MD5sum: c80f9800ea2ad811223a4f075c758124
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTangGuoChuanQi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracktengxuntiyu
 Version: 0.0.1-2
@@ -1071,8 +1098,8 @@ Size: 48352
 Installed-Size: 204
 MD5sum: 7871f70ca8d58ede6cd6207d19e980d3
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTengXunTiYu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracktianlongbabu3d
 Version: 0.0.1-4
@@ -1085,8 +1112,8 @@ Size: 31416
 Installed-Size: 136
 MD5sum: 53c17d2644fba1abb6879159cebcbc2a
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTianLongBaBu3D
+author: Chuanzheng Yan
 
 Package: com.yourcompany.cracktinytimes
 Version: 0.0.1-21
@@ -1099,8 +1126,8 @@ Size: 83910
 Installed-Size: 348
 MD5sum: 6894a61060284259493cb356de90df83
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTinyTimes
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttaixiaochu
 Version: 0.0.1-3
@@ -1113,8 +1140,8 @@ Size: 49284
 Installed-Size: 204
 MD5sum: 7538f7348a8acf0b4177b630780c6f5c
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTAiXiaoChu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttchuanqi
 Version: 0.0.1-3
@@ -1127,8 +1154,8 @@ Size: 49502
 Installed-Size: 204
 MD5sum: b593a1678c505471b3dc9237f11bebc7
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTChuanQi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttdezhou
 Version: 0.0.1-3
@@ -1141,8 +1168,8 @@ Size: 49544
 Installed-Size: 204
 MD5sum: 6511c2bd8b6df649517c5ae8f1ab68aa
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTDeZhou
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttfeiche
 Version: 0.0.1-3
@@ -1155,8 +1182,8 @@ Size: 57410
 Installed-Size: 252
 MD5sum: 34e88a53d2bbe697f8b5dc8f872f5807
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTFeiChe
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttfuweng
 Version: 0.0.1-3
@@ -1169,8 +1196,8 @@ Size: 49354
 Installed-Size: 204
 MD5sum: 6c24c56787b7ad3a26cc348d4d6fe4b9
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTFuWeng
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttkupao
 Version: 0.0.1-3
@@ -1183,8 +1210,8 @@ Size: 48970
 Installed-Size: 204
 MD5sum: 3978594c4848b695aa56ebd47528a3ca
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTKuPao
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackttxuandou
 Version: 0.0.1-3
@@ -1197,8 +1224,8 @@ Size: 50650
 Installed-Size: 204
 MD5sum: 580e60a19a513271ed2ad39a152b8207
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackTTXuanDou
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackwechatlogin
 Version: 0.0.1-17
@@ -1211,8 +1238,8 @@ Size: 23226
 Installed-Size: 104
 MD5sum: c495e02228c7219b8242825ba5067745
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackWeChatLogin
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackwojiaomt2
 Version: 0.0.1-3
@@ -1225,8 +1252,8 @@ Size: 57588
 Installed-Size: 252
 MD5sum: ba217dfc369edb6320b88eb4e99f3e27
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackWoJiaoMT2
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackwozaidaqingdanghuangdi
 Version: 0.0.1-2
@@ -1239,8 +1266,8 @@ Size: 27828
 Installed-Size: 136
 MD5sum: bf50ae8844315c40deacd7e0999e308b
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackWoZaiDaQingDangHuangDi
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxegb
 Version: 0.0.1-6
@@ -1253,8 +1280,8 @@ Size: 88520
 Installed-Size: 348
 MD5sum: a2e4e480645cc4ba2ea89c5fd915b5cd
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXEGB
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxianjiankezhan
 Version: 0.0.1-15
@@ -1267,8 +1294,8 @@ Size: 83912
 Installed-Size: 348
 MD5sum: bb75ea0a73c2fe9c95ab94a472fdaf1b
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXianJianKeZhan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxianjianqixiachuan
 Version: 0.0.1-3
@@ -1281,8 +1308,8 @@ Size: 57372
 Installed-Size: 252
 MD5sum: 1b84ca7cff258c78012078a3d47c58e3
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXianJianQiXiaChuan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinghezhanjian
 Version: 0.0.1-3
@@ -1295,8 +1322,8 @@ Size: 57678
 Installed-Size: 252
 MD5sum: b3ac807d93cdf6b57091881ce253f87a
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXingHeZhanJian
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinhuaqiangu
 Version: 0.0.1-2
@@ -1309,8 +1336,8 @@ Size: 47636
 Installed-Size: 204
 MD5sum: fa17d5258a86836bd06416fb2907fa96
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXinHuaQianGu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinqinshimingyue
 Version: 0.0.1-2
@@ -1323,8 +1350,8 @@ Size: 27958
 Installed-Size: 136
 MD5sum: b9879430ee0e7b2d2b9502d7700729aa
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXinQinShiMingYue
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinrenzhebixusi2
 Version: 0.0.1-3
@@ -1337,8 +1364,8 @@ Size: 84328
 Installed-Size: 348
 MD5sum: 7703816ef944916f76fdca449ce5b9ac
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXinRenZheBiXuSi2
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinsanguomengjianglu
 Version: 0.0.1-3
@@ -1351,8 +1378,8 @@ Size: 28864
 Installed-Size: 136
 MD5sum: ab2134092427d80ada8c9a25327b9c83
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXinSanGuoMengJiangLu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinxianjianqxc
 Version: 0.0.1-3
@@ -1365,8 +1392,8 @@ Size: 55328
 Installed-Size: 252
 MD5sum: 3b476ae5f96ce943175840b6acb49580
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXinXianJianQXC
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackxinzhengtu
 Version: 0.0.1-2
@@ -1379,8 +1406,8 @@ Size: 30606
 Installed-Size: 136
 MD5sum: 7946c62d6bd57df074d1308dd39fb935
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackXinZhengTu
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackyingxiongsha
 Version: 0.0.1-2
@@ -1393,8 +1420,8 @@ Size: 57438
 Installed-Size: 252
 MD5sum: 2ead929a04c465053e028e214857017e
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackYingXiongSha
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackyingzhiren
 Version: 0.0.1-2
@@ -1407,8 +1434,8 @@ Size: 84332
 Installed-Size: 348
 MD5sum: caf33032dfda59a7bfa884292e7cc5f4
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackYingZhiRen
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackyunzhongge
 Version: 0.0.1-2
@@ -1421,8 +1448,8 @@ Size: 30340
 Installed-Size: 136
 MD5sum: 32faf106c9ef4d0fcd5fc51483c31dc9
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackYunZhongGe
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackzhanjiandiguo
 Version: 0.0.1-2
@@ -1435,8 +1462,8 @@ Size: 28002
 Installed-Size: 136
 MD5sum: 28b806824a2277932a88eee439182a92
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackZhanjianDiGuo
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackzhanlongzhiren
 Version: 0.0.1-2
@@ -1449,8 +1476,8 @@ Size: 30168
 Installed-Size: 136
 MD5sum: 0159f1b9d94b24b706e41c847d49a088
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackZhanLongZhiRen
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackzhenhuanzhuan
 Version: 0.0.1-2
@@ -1463,8 +1490,8 @@ Size: 28716
 Installed-Size: 136
 MD5sum: 014cf523f7cd1ec1e101c22a3f51aa83
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackZhenHuanZhuan
+author: Chuanzheng Yan
 
 Package: com.yourcompany.crackzhugongbnl
 Version: 0.0.1-27
@@ -1477,8 +1504,8 @@ Size: 83934
 Installed-Size: 348
 MD5sum: 7b6444cce48482a599163ae9f547980b
 Description: An awesome MobileSubstrate tweak!
-author: XLX
 name: CrackZhuGongBNL
+author: XLX
 
 Package: com.yourcompany.crackzhugongmohuang
 Version: 0.0.1-3
@@ -1491,8 +1518,8 @@ Size: 84194
 Installed-Size: 348
 MD5sum: 1929c25cc2d91860bffc96f08822c387
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: CrackZhuGongMoHuang
+author: Chuanzheng Yan
 
 Package: com.yourcompany.rackleitingzhanji
 Version: 0.0.1-3
@@ -1505,6 +1532,6 @@ Size: 49330
 Installed-Size: 204
 MD5sum: 9ac25545eb28a006b798bf4cb41d7c91
 Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
 name: rackLeiTingZhanJi
+author: Chuanzheng Yan
 
