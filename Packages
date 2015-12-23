@@ -1,41 +1,13 @@
-Package: com.yourcompany.chgmac2
-Version: 0.0.1-298
+Package: com.xiaolongxia.xlx
+Version: 0.0.1-23
 Section: Utilities
-Maintainer: Cyan Inc.
+Maintainer: XiaoLongXia
 Architecture: iphoneos-arm
-Filename: ./debs//00Ch_Mac_1205.deb
-Size: 241332
-Installed-Size: 580
-MD5sum: f001edc212c22b0e677ee1a771490506
-Description: 修改Mac地址
-author: Cyan Inc.
-name: ChgMac虾
-
-Package: com.yourcompany.crackchuanyuehuoxian
-Version: 0.0.1-4
-Section: Tweaks
-Maintainer: Chuanzheng Yan
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs//22CF_1205.deb
-Size: 56810
-Installed-Size: 268
-MD5sum: 394f80ed5d670a39254f318de5331062
-Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
-name: CrackChuanYueHuoXian
-
-Package: com.yourcompany.crackshenling
-Version: 0.0.1-4
-Section: Tweaks
-Maintainer: Chuanzheng Yan
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs//11ShenLing-2015-12-05.deb
-Size: 75178
-Installed-Size: 332
-MD5sum: 46df778a1e9e441bdad19b91fa656017
-Description: An awesome MobileSubstrate tweak!
-author: Chuanzheng Yan
-name: CrackShenLing
+Filename: ./debs//00XiaoLongXia.deb
+Size: 138666
+Installed-Size: 328
+MD5sum: 1f2aaaa8f6ea8e773f778fab88c4ac77
+Description: 小龙虾苹果手游 85折充值 软件1
+name: 010_小龙虾充值
+author: XiaoLongXia
 
