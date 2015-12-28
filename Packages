@@ -8,8 +8,8 @@ Size: 26098
 Installed-Size: 216
 MD5sum: 552e55b5984a50141cec07ddfa181772
 Description: An awesome application!
-name: ReBoot
 author: cyan
+name: ReBoot
 
 Package: com.xiaolongxia.xlx
 Version: 0.0.1-23
@@ -21,6 +21,20 @@ Size: 138666
 Installed-Size: 328
 MD5sum: 1f2aaaa8f6ea8e773f778fab88c4ac77
 Description: 小龙虾苹果手游 85折充值 软件1
-name: 010_小龙虾充值
 author: XiaoLongXia
+name: 010_小龙虾充值
+
+Package: com.yourcompany.crackbenghuaixueyuan
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Chuanzheng Yan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs//11Beng_Huai_Xue_Yuan.deb
+Size: 27878
+Installed-Size: 136
+MD5sum: 437302cf6040cf5ebdec3cc786c238fe
+Description: An awesome MobileSubstrate tweak!
+author: Chuanzheng Yan
+name: CrackBengHuaiXueYuan
 
