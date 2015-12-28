@@ -8,8 +8,8 @@ Size: 26098
 Installed-Size: 216
 MD5sum: 552e55b5984a50141cec07ddfa181772
 Description: An awesome application!
-author: cyan
 name: ReBoot
+author: cyan
 
 Package: com.xiaolongxia.xlx
 Version: 0.0.1-23
@@ -21,6 +21,6 @@ Size: 138666
 Installed-Size: 328
 MD5sum: 1f2aaaa8f6ea8e773f778fab88c4ac77
 Description: 小龙虾苹果手游 85折充值 软件1
-author: XiaoLongXia
 name: 010_小龙虾充值
+author: XiaoLongXia
 
